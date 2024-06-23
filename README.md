@@ -1,5 +1,6 @@
 # Knowledge Check 2 for Software Course 2
 
+Completed the following activity
 
 1. Create a new Repsitory by clicking the green "Use this Template" button and setup a new repository in your account.
 
